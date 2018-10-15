@@ -1,6 +1,4 @@
 # FS99 THE IMPROVED REDHAWK
-#### Version 2.0.0
-#### By R3D#@0R_2H1N A.K.A Tuhinshubhra
 All in one tool for **Information Gathering** and **Vulnerability Scanning**
 
 # Scans That You Can Perform Using FS99 :
@@ -41,17 +39,6 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 + MX Lookup **NEW**
 + Scan For Everything - _The Old Lame Scanner_
 
----
-# Released Versions:
-    - Version 1.0.0 [11-06-2017]
-    - Version 1.1.0 [15-06-2017]
-    - Version 2.0.0 [11-08-2017]
-
-# Changelog:
-- Version 1.0.0
-    - Initial Launch
-- Version 1.1.0
-    - Updated The `fix` command
 - Version 2.0.0
 	- Separated all scans so that you are served the amount of information you need
 	- `Sub-Domain Scanner` improved
@@ -80,7 +67,7 @@ All in one tool for **Information Gathering** and **Vulnerability Scanning**
 - Leave the rest to the scanner
 
 # List of CMS Supported
-RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Content Management Systems) in case the website is using some other CMS, Detector will return _could not detect_.
+FS99 `CMS Detector` currently is able to detect the following CMSs (Content Management Systems) in case the website is using some other CMS, Detector will return _could not detect_.
 
 - WordPress
 - Joomla
@@ -91,11 +78,6 @@ RED HAWK's `CMS Detector` currently is able to detect the following CMSs (Conten
 
 **SOLUTION:** Use The `fix` Command OR Manually Install *php-curl* & *php-xml*
 
-
-
-# Suggestions And Feedbacks
-Want to contribute to RED HAWK or point out something wrong? Just create a new issue here: https://github.com/Tuhinshubhra/RED_HAWK/issues/new
-I'd love to hear from you.
 
 # TODOs
 
